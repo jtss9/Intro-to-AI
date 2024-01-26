@@ -1,6 +1,6 @@
 # 2023_nycu_Intro_to_AI
 Intro. to Artificial Intelligence\
-2023 Fall, by Prof. 陳奕廷
+2023 Spring, by Prof. 陳奕廷
 
 ### Labs
 1. Face Detection
